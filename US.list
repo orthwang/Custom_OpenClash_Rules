@@ -4,6 +4,11 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,ar-genai.graph.meta.com
 DOMAIN-KEYWORD,genai
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,fbcdn.net
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-KEYWORD,meta.ai
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,tubitv.com
@@ -37,3 +42,4 @@ IP-CIDR,216.239.35.4/32
 #DOMAIN-SUFFIX,google-analytics.com
 #DOMAIN-SUFFIX,googleapis.com
 #DOMAIN-SUFFIX,gstatic.com
+
