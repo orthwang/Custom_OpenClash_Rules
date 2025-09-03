@@ -9,6 +9,8 @@ DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,fbcdn.net
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-KEYWORD,meta.ai
+DOMAIN-SUFFIX,facebookvirtualassistant.com
+DOMAIN-KEYWORD,facebookvirtualassistant
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutopreprod.tv
 DOMAIN-SUFFIX,tubitv.com
@@ -43,5 +45,6 @@ IP-CIDR,216.239.35.4/32
 #DOMAIN-SUFFIX,google-analytics.com
 #DOMAIN-SUFFIX,googleapis.com
 #DOMAIN-SUFFIX,gstatic.com
+
 
 
