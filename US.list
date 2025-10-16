@@ -6,7 +6,8 @@ DOMAIN-SUFFIX,ar-genai.graph.meta.com
 DOMAIN-KEYWORD,genai
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,fbcdn.net
+DOMAIN-KEYWORD,Instagram
+DOMAIN-SUFFIX,Instagram.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-KEYWORD,meta.ai
 DOMAIN-SUFFIX,facebookvirtualassistant.com
@@ -45,6 +46,7 @@ IP-CIDR,216.239.35.4/32
 #DOMAIN-SUFFIX,google-analytics.com
 #DOMAIN-SUFFIX,googleapis.com
 #DOMAIN-SUFFIX,gstatic.com
+
 
 
 
