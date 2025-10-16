@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 276
+# TOTAL: 297
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -17,7 +17,9 @@ payload:
   - DOMAIN-SUFFIX,52jiawei.com
   - DOMAIN-SUFFIX,52met.com
   - DOMAIN-SUFFIX,52muban.com
+  - DOMAIN-SUFFIX,55555.ink
   - DOMAIN-SUFFIX,657192.com
+  - DOMAIN-SUFFIX,6v520.net
   - DOMAIN-SUFFIX,737698.xyz
   - DOMAIN-SUFFIX,7sef.com
   - DOMAIN-SUFFIX,900cha.com
@@ -28,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,afuns.me
   - DOMAIN-SUFFIX,aistudio-app.com
   - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,aloys233.top
   - DOMAIN-SUFFIX,anycubic.com
   - DOMAIN-SUFFIX,api.myip.com
@@ -38,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,belimked.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,bochk.com
+  - DOMAIN-SUFFIX,boyuemobile.com
   - DOMAIN-SUFFIX,bsbsb.top
   - DOMAIN-SUFFIX,canghaiip.com
   - DOMAIN-SUFFIX,centbrowser.net
@@ -51,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,chujingapp.com
   - DOMAIN-SUFFIX,clivia.fun
   - DOMAIN-SUFFIX,cn-music.mefun.vip
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,codeloop.top
   - DOMAIN-SUFFIX,congmiqq.com
   - DOMAIN-SUFFIX,coros.com
@@ -61,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,dhub.kubesre.xyz
   - DOMAIN-SUFFIX,dingdingzn.com
+  - DOMAIN-SUFFIX,diyiedu.com
   - DOMAIN-SUFFIX,docker.1panel.live
   - DOMAIN-SUFFIX,docker.kejilion.pro
   - DOMAIN-SUFFIX,docker.unsee.tech
@@ -75,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,epg.v1.mk
   - DOMAIN-SUFFIX,feihengip.com
   - DOMAIN-SUFFIX,feizhiyi.com
+  - DOMAIN-SUFFIX,fengsutb.com
   - DOMAIN-SUFFIX,ffhome.com
   - DOMAIN-SUFFIX,fjpit.com
   - DOMAIN-SUFFIX,flingtrainer.com
@@ -109,6 +116,7 @@ payload:
   - DOMAIN-SUFFIX,github.store
   - DOMAIN-SUFFIX,giveup.top
   - DOMAIN-SUFFIX,gjtool.com
+  - DOMAIN-SUFFIX,gmoj.net
   - DOMAIN-SUFFIX,gmya.net
   - DOMAIN-SUFFIX,goka.top
   - DOMAIN-SUFFIX,googoc.com
@@ -149,6 +157,7 @@ payload:
   - DOMAIN-SUFFIX,ipshu.com
   - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,julebu.co
   - DOMAIN-SUFFIX,jxjktzjt.com
   - DOMAIN-SUFFIX,jxpp.com
   - DOMAIN-SUFFIX,kaspersky-labs.com
@@ -162,6 +171,7 @@ payload:
   - DOMAIN-SUFFIX,lanyun.net
   - DOMAIN-SUFFIX,leelen.com
   - DOMAIN-SUFFIX,letaoedu.com
+  - DOMAIN-SUFFIX,liunn.com
   - DOMAIN-SUFFIX,longmenshuju.com
   - DOMAIN-SUFFIX,lsbj365.com
   - DOMAIN-SUFFIX,lyihub.com
@@ -175,6 +185,7 @@ payload:
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mobai.sbs
+  - DOMAIN-SUFFIX,modelscope.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,mslmc.net
@@ -191,6 +202,7 @@ payload:
   - DOMAIN-SUFFIX,ok321.top
   - DOMAIN-SUFFIX,onebuygz.com
   - DOMAIN-SUFFIX,ottai.com
+  - DOMAIN-SUFFIX,ourschool.cc
   - DOMAIN-SUFFIX,paperang.com
   - DOMAIN-SUFFIX,plusde1.younoyes.com
   - DOMAIN-SUFFIX,plushk1.younoyes.com
@@ -207,6 +219,8 @@ payload:
   - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,qiankunshopping.com
   - DOMAIN-SUFFIX,qianuni.com
+  - DOMAIN-SUFFIX,qianxuecloud.com
+  - DOMAIN-SUFFIX,qianxueyunke.com
   - DOMAIN-SUFFIX,qiaoxuesi.com
   - DOMAIN-SUFFIX,qinglue.com
   - DOMAIN-SUFFIX,redenmc.com
@@ -225,7 +239,9 @@ payload:
   - DOMAIN-SUFFIX,snfox.com
   - DOMAIN-SUFFIX,snltty.com
   - DOMAIN-SUFFIX,sptv.ii00.cc
+  - DOMAIN-SUFFIX,ssjj2.com
   - DOMAIN-SUFFIX,starlink.uno
+  - DOMAIN-SUFFIX,stkfanli.com
   - DOMAIN-SUFFIX,suyur.com
   - DOMAIN-SUFFIX,sxlljm.com
   - DOMAIN-SUFFIX,tailgdd.com
@@ -264,6 +280,9 @@ payload:
   - DOMAIN-SUFFIX,xixih.cc
   - DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
   - DOMAIN-SUFFIX,xopenbeta.com
+  - DOMAIN-SUFFIX,xxrsm.com
+  - DOMAIN-SUFFIX,xzsckj.com
+  - DOMAIN-SUFFIX,ydayc.com
   - DOMAIN-SUFFIX,yiso.fun
   - DOMAIN-SUFFIX,yongyu.xyz
   - DOMAIN-SUFFIX,yooc.me
@@ -272,7 +291,9 @@ payload:
   - DOMAIN-SUFFIX,z6e.com
   - DOMAIN-SUFFIX,zctnet.top
   - DOMAIN-SUFFIX,zeekrline.com
+  - DOMAIN-SUFFIX,zhixingyunke.com
   - DOMAIN-SUFFIX,zhongancloud.com
+  - DOMAIN-SUFFIX,zjxhedu.com
   - DOMAIN-SUFFIX,znnu.com
   - DOMAIN-SUFFIX,znztv.com
   - DOMAIN-SUFFIX,zuobiao.press
