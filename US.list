@@ -21,14 +21,14 @@ DOMAIN-KEYWORD,tubi
 DOMAIN-KEYWORD,pluto
 DOMAIN-KEYWORD,plutotv
 DOMAIN-KEYWORD,plutopreprod
-DOMAIN-KEYWORD,time2.google
-DOMAIN-SUFFIX,time2.google.com
+#DOMAIN-KEYWORD,time2.google
+#DOMAIN-SUFFIX,time2.google.com
 DOMAIN-SUFFIX,metadata.provider.plex.tv
 DOMAIN-SUFFIX,analytics.plex.tv
 DOMAIN-SUFFIX,metadata-static.plex.tv
 DOMAIN-SUFFIX,meta.plex.tv
 DOMAIN-SUFFIX,plex.tv
-IP-CIDR,216.239.35.4/32
+#IP-CIDR,216.239.35.4/32
 #DOMAIN-SUFFIX,uapi.adrise.tv
 #DOMAIN-KEYWORD,adrise
 #DOMAIN-SUFFIX,branch.io
@@ -46,6 +46,7 @@ IP-CIDR,216.239.35.4/32
 #DOMAIN-SUFFIX,google-analytics.com
 #DOMAIN-SUFFIX,googleapis.com
 #DOMAIN-SUFFIX,gstatic.com
+
 
 
 
